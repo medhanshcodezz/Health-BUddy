@@ -671,7 +671,7 @@ if selected=="MedSIRI":
     st.title("Hii Medhansh ")
 
     api_key = "C65pUxaPOwq0leUdFdKSy3c8dvuqJWMK"
-    external_user_id = "rehanmittal"
+    external_user_id = "medhansh mittal"
     query = st.text_input("Query")
 
     if st.button("Submit Query"):
