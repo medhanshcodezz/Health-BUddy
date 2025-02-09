@@ -106,7 +106,6 @@ data = {
 - **Extended Health Monitoring**: Extend the system to monitor additional health indicators for broader diagnoses.
 
 ---
-![1](https://github.com/user-attachments/assets/9ae84987-034e-4f3f-a65b-80513a5f071b)
 ![2](https://github.com/user-attachments/assets/ce38bde6-7d30-48fd-9cf3-35e10fe2217e)
 ![3](https://github.com/user-attachments/assets/0f9da708-ed2f-4552-899f-1ca55945fe90)
 ![4](https://github.com/user-attachments/assets/c84df30d-d442-4963-9f1c-8e1f481d79c5)
